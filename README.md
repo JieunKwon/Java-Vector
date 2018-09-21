@@ -15,4 +15,4 @@ Running Program
 
 ![Lines](Capture2.JPG)
 
-![Lines](Capture2.JPG)
+![Lines](Capture3.JPG)
