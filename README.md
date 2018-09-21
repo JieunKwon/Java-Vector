@@ -1,8 +1,8 @@
 # Java-Vector
 
-Java Project - Using Vector, cross 2 lines and show the interscton and lines' equation
+# Java Project - Using Vector, cross 2 lines and show the interscton and lines' equation
 
-created date: Jan 2018
+# created date: Jan 2018
 
 
 Description 
